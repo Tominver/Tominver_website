@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://tominvergoodone.netlify.app/"
 languageCode = "en-us"
-title = "Tom"
+title = "Portfolio webiste for Tom Invernizzi"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Tom"
-  description = "Tom description"
+  description = "French LBS MFA 2021 Student"
 
   # Link custom assets relative to /static
   custom_css = []
