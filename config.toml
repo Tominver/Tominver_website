@@ -118,10 +118,18 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Tom Invernizzi"
       subtitle = "Profile"
-      image = "pic05.jpg"
+      Video = "Video1.mp4"
       url = "blogs/Tom Invernizzi"
 
-    # You can make more showcases by copy and pasting the code above
+  
+  
+  
+  
+  
+  
+  
+  
+  # You can make more showcases by copy and pasting the code above
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
