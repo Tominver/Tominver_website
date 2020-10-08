@@ -43,7 +43,7 @@ disqusShortname = ""
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
-    [[params.navigation.links]]
+   [[params.navigation.links]]
       name = "Home"
       url = "#"
 
@@ -54,6 +54,10 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Contact"
       url = "Contact.html"
+      
+      
+      
+      
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -79,7 +83,7 @@ disqusShortname = ""
     # the 'static/img' folder.
     title = "Hi, my name is Tom"
     subtitle = "This is my portfolio website "
-    buttonText = "Get Started"
+    buttonText = "Details"
 
 
   # Tiles Section
