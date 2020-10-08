@@ -92,40 +92,35 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "People"
+      subtitle = "Photos"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/People"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
-      subtitle = "Feugiat Amet Tempus"
+      title = "Paris"
+      subtitle = "Photos"
       image = "pic02.jpg"
-      url = "blogs/tempus"
+      url = "blogs/Paris"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
+      title = "Details"
+      subtitle = "Photos"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/Details"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "Somewhere"
+      subtitle = "Photos"
       image = "pic04.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/Somewhere"
 
     [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Tom Invernizzi"
+      subtitle = "Profile"
       image = "pic05.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/Tom Invernizzi"
 
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
