@@ -6,4 +6,4 @@ slug: blogs
 title: Photos
 ---
 
-My Photos blogs .
+My Photos blogs.
