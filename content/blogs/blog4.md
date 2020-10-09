@@ -2,11 +2,11 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T22:42:51-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+date: "2017-10-31T22:26:09-05:00"
+description: Portraits are about people. Environmental portraits are about people and what they do with their lives. They are about the kind of house a person lives in and how they decorate it; about what kind of work they do and where they do it; about the surroundings they choose and the things they surround themselves with. Environmental portraits seek to convey an idea about a person by combining portraiture with a sense of place.
 draft: false
 image: pic07.jpg
 keywords: ""
-slug: aliquam
-title: Aliquam
+slug: People
+title: People
 ---
