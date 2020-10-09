@@ -141,13 +141,11 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
+    title = "Photography"
+    subtitle = """Photography helps you capture anything you feel is important to remember.
+    One photograph is powerful enough to not only remind you of an event or detail, 
+     but can bring you right back to the feelings, sounds, and even smells of the moment."""
+    buttonText = "Discover"
     url = "blogs"
 
 
