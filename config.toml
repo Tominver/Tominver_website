@@ -118,7 +118,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Tom Invernizzi"
       subtitle = "Profile"
-      image = "pic05.jpg"
+      image = "pic05.jpg" 
       url = "blogs/Tom Invernizzi"
 
   
