@@ -93,7 +93,13 @@ disqusShortname = ""
       subtitle = "Photos"
       image = "pic01.jpg"
       url = "blogs/People"
-    
+      
+          [[params.tiles.showcase]]
+      title = "Somewhere"
+      subtitle = "Photos"
+      image = "pic04.jpg"
+      url = "blogs/Somewhere"
+
       
        [[params.tiles.showcase]]
       title = "Video"
@@ -101,11 +107,6 @@ disqusShortname = ""
       image = "d6.jpg"
       url = "blogs/Videos"
 
-    [[params.tiles.showcase]]
-      title = "Somewhere"
-      subtitle = "Photos"
-      image = "pic04.jpg"
-      url = "blogs/Somewhere"
 
     [[params.tiles.showcase]]
       title = "Paris"
