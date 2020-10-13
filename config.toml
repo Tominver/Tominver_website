@@ -96,17 +96,12 @@ disqusShortname = ""
       subtitle = "Photos"
       image = "pic01.jpg"
       url = "blogs/People"
-      
-      [[params.tiles.showcase]]
-     title = "Details"
-      subtitle = "Photos"
-      image = "pic03.jpg"
-      url = "blogs/Details"
+    
       
        [[params.tiles.showcase]]
       title = "Video"
       subtitle = "Video"
-      Video = "1.mp4"
+      image = "d6.jpg"
       url = "blogs/Somewhere"
 
     [[params.tiles.showcase]]
@@ -120,6 +115,12 @@ disqusShortname = ""
       subtitle = "Photos"
       image = "pic02.jpg"
       url = "blogs/Paris"
+      
+       [[params.tiles.showcase]]
+     title = "Details"
+      subtitle = "Photos"
+      image = "pic03.jpg"
+      url = "blogs/Details"
 
     [[params.tiles.showcase]]
       title = "Tom Invernizzi"
