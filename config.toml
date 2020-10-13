@@ -51,9 +51,6 @@ disqusShortname = ""
       name = "Blogs"
       url = "blogs"
 
-    [[params.navigation.links]]
-      name = "Contact"
-      url = "Contact.html"
       
       
       
