@@ -102,6 +102,12 @@ disqusShortname = ""
       subtitle = "Photos"
       image = "pic03.jpg"
       url = "blogs/Details"
+      
+       [[params.tiles.showcase]]
+      title = "Video"
+      subtitle = "Video"
+      Video = "1.mp4"
+      url = "blogs/Somewhere"
 
     [[params.tiles.showcase]]
       title = "Somewhere"
